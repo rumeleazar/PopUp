@@ -17,14 +17,13 @@ body {
 }
 
 .table input[type="button"] {
-  display: block;
+  display: none;
   margin: auto;
 }
 
 .yes {
   display: block;
   margin: 0 100px;
-
   height: 50%;
   width: 30%;
   float: left;
